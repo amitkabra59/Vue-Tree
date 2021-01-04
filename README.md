@@ -23,5 +23,5 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### Root.json
-The root.json file contains the directory of this project which will be displayed as Tree.
+### data.json
+The data.json file contains the directory of this project which will be displayed as Tree.
